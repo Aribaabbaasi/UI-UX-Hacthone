@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.img-one{
+    transition: 1.s;
+}
+.img-one:hover{
+    transform: scale(1.1);
+}
